@@ -1,0 +1,53 @@
+body{
+    border: solid rgb(129, 10, 129);
+    color:rgb(13, 4, 83);
+    width: 80%;
+    height: 50%;
+    margin: 90px;
+    padding: 70px;
+    background-image: url(foto22.jpg);
+}
+
+h1{
+    text-align: center;
+    color: rgb(13, 4, 83);
+}
+
+.Raya{
+    width: 100%;
+    height: 20px;
+    background: rgb(107, 5, 118);
+}
+
+.Grid1{
+    display: grid;
+    background-color: rgb(206, 85, 146);
+    grid-template-columns: auto;
+}
+
+.Grid1 div{
+    border: 0.5px solid rgb(255, 255, 255);
+    color: rgb(13, 4, 83);
+}
+
+.Grid2{
+    display: grid;
+    background-color: rgb(58, 94, 119);
+    grid-template-columns: auto;
+}
+
+.Grid2 div{
+    border:0.5px solid rgb(255, 255, 255);
+    color: rgb(13, 4, 83);
+}
+
+.Grid3{
+    display: grid;
+    background-color: rgb(62, 147, 72);
+    grid-template-columns: auto;
+}
+
+.Grid3 div{
+    border:0.5px solid rgb(255, 255, 255);
+    color: rgb(13, 4, 83);
+}
